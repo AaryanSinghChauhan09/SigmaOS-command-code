@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-command-code"
+version = "0.1.0"
+category = "tools"
+description = "SigmaOS Command Code — terminal AI coding assistant & runner"
